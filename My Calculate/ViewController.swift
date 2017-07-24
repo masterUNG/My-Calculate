@@ -54,7 +54,6 @@ class ViewController: UIViewController {
         //Show String to Label
         answerLabel.text = strAnswer
         
-        
     }   // answerButton
     
 
